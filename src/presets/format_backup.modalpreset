@@ -1,0 +1,28 @@
+{
+'firstname': имя,
+'middlename': отчество,
+'lastname': фамилия,
+'email': email
+'phone': phone number,
+'tg': telegram url
+'date_of_birth': date_of_birth,
+'age': age'
+'position': work position example backend or analytic,
+'educations': [
+  'name': education place name,
+  'tier': example вуз школа колледж курсы,
+  'department_name': кафедра или направление или empty,
+  'start_date': start date,
+  'end_date': end date,
+]
+'degree': degree example junnior or middle
+'stack_list: [ сухая выжимка его стека ]
+'jobs':[
+  'company': company name,
+  'position': position in this company,
+  'description': about position or work,
+  'location': city or remotely,
+  'start_date': work start date,
+  'end_date': end work date,
+]
+}
